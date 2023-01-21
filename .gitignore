@@ -23,6 +23,12 @@ media
 # C extensions
 *.so
 
+# Mac Stuff
+*.DS_Store
+
+# VSCode Stuff
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
